@@ -1,0 +1,9 @@
+# Package Managers
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Others
+.svelte-kit
+.idx
+dist
