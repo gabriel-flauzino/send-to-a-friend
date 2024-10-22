@@ -4,6 +4,7 @@ pnpm-lock.yaml
 yarn.lock
 
 # Others
-.svelte-kit
 .idx
 dist
+package.json
+README.md
